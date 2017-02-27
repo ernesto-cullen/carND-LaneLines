@@ -25,7 +25,7 @@ The objective have been reached to a point, but there are several shortcomings l
 
 ###1. Pipeline
 
-My pipeline is made of 5 steps. 
+The pipeline consist of 5 steps. 
 
 * 1: convert to grayscale
 The image must be in single color, 8 bits/pixel for following process, so we convert to grayscale using OpenCV cvtColor function.
